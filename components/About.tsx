@@ -21,7 +21,7 @@ const About = (): JSX.Element => {
 				<div className="flex flex-col max-w-xl w-full justify-evenly">
 					<h1 className="text-4xl pt-10 mb-10 mt-10 md:mt-10 md:pt-10">{personalInfo.name}</h1>
 					<p>
-						Rohit Bhisikar is a Pre-Doc candidate and a research associate at Harvard Business School. He did his undergraduate from Ashoka University.
+						Rohit Bhisikar is a research associate at Harvard Business School. He did his undergraduate from Ashoka University.
 						 <br/>
 						 <br/>
 						As a curator and academic, Rohit is interested in philosophy, minority expression, and documentary practice. He current research focuses on independent publishing in late twentieth century India.
