@@ -21,14 +21,15 @@ const About = (): JSX.Element => {
 				<div className="flex flex-col max-w-xl w-full justify-evenly">
 					<h1 className="text-4xl pt-10 mb-10 mt-10 md:mt-10 md:pt-10">{personalInfo.name}</h1>
 					<p>
-						Rohit Bhisikar is a research associate at Harvard Business School. He did his undergraduate from Ashoka University.
+						Rohit Bhisikar is a Research Associate at Harvard Business School. He did his undergraduate from Ashoka University.
 						 <br/>
 						 <br/>
-						As a curator and academic, Rohit is interested in philosophy, minority expression, and documentary practice. He current research focuses on independent publishing in late twentieth century India.
+						He collaborates with HBS faculty on an article or a case focusing on a Fortune 500 company, a five-person start-up, or a nonprofit organization. His research dig deep in fields ranging from entrepreneurship to finance to organizational behavior. 
 						 <br/>
 						 <br/>
-						He lives and works in Mumbai.
-						<br/><a className = "text-sm">✉️ {personalInfo.about.email}</a>
+						 As a curator and academic, Rohit is also interested in philosophy, minority expression, and documentary practice. He lives and works in Mumbai.
+						 <br/>
+						 <br/><a className = "text-sm">✉️ {personalInfo.about.email}</a>
 					</p>
 				</div>
 			</div>

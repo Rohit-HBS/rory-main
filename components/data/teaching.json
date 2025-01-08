@@ -1,11 +1,11 @@
 [
     {
-        "id": "PHIL 101",
+        "id": "PHIL 1000",
         "name": "Introduction to Philosophy"
     },
     {
-        "id": "PHIL 3401",
-        "name": "Poetic Paradigms and Philosophical Form"
+        "id": "PHIL 2715",
+        "name": "Philosophical approaches to Love and Friendship"
     }
 
 ]
