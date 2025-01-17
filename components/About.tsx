@@ -24,10 +24,10 @@ const About = (): JSX.Element => {
 						Rohit Bhisikar is a Research Associate at Harvard Business School. He did his undergraduate from Ashoka University.
 						 <br/>
 						 <br/>
-						He collaborates with HBS faculty on an article or a case focusing on a Fortune 500 company, a five-person start-up, or a nonprofit organization. His research dig deep in fields ranging from entrepreneurship to finance to organizational behavior. 
+						He helps HBS faculty craft case studies about pretty much everything—from Fortune 500 giants to scrappy five-person start-ups to ambitious nonprofits. His research dig deep in fields ranging from entrepreneurship to finance to organizational behavior.
 						 <br/>
 						 <br/>
-						 As a curator and academic, Rohit is also interested in philosophy, minority expression, and documentary practice. He lives and works in Mumbai.
+						As a curator and academic, Rohit is also interested in philosophy, minority expression, and documentary practice. He lives and works in Mumbai.
 						 <br/>
 						 <br/><a className = "text-sm">✉️ {personalInfo.about.email}</a>
 					</p>
